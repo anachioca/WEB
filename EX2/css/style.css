@@ -1,0 +1,70 @@
+/* Ana Laura Chioca Vieira  9866531 */
+
+body {
+    background-color: #cccccc;}
+
+* {
+    color:  #808080; 
+    font-family: 'Montserrat'; 
+    font-size: 1em;}
+
+.text-center{
+    text-align: center;}
+
+.card {
+    background-color: #f2f2f2;
+    vertical-align: center;
+    width: 500px; 
+    padding: 10px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;}
+
+.card:hover {
+    box-shadow: 3px 3px 2px #bebebe}
+
+.movie {
+    width: 90px; 
+    height: 140px;
+    padding: 10px}
+    
+#img-profile  {
+    width: 90px; 
+    height: 90px; 
+    border-radius: 90px;}
+
+.list-inline {
+    padding:0px;
+    margin:0px;
+    list-style-type: none;}
+
+.list-inline li{
+    display: inline;}
+
+.list-inline li a {
+    padding: 30px 10px;
+    display: inline-block;}
+
+.list-inline li p {
+    padding: 30px 10px;
+    display: inline-block;}
+
+a:link {
+    text-decoration: none;}
+
+p {
+    color: #adacac;
+    font-size: 1em;}
+
+td {
+    text-align: justify;
+    text-justify: inter-word;}
+
+h1 {
+    color: #b30000; 
+    font-size: 1.5em;}
+
+h2 {
+    font-size: 1.2em}

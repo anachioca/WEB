@@ -1,0 +1,50 @@
+/* Ana Laura Chioca Vieira  9866531 */
+
+body {
+    background-color: rgb(209, 209, 209);
+}
+
+*{
+    font: 16px Arial, Helvetica, sans-serif;
+    color: rgb(63, 63, 63);
+}
+
+.form-style{ 
+	width: 500px;
+	padding: 30px;
+	background: white;
+    margin: 60px;
+}
+
+.form-style h1{ /* VUE.JS */
+    text-transform: uppercase;
+    background: rgb(63, 63, 63);
+    color: rgb(209, 209, 209);
+	font-size: 20px;
+	padding: 20px;
+	margin: -30px -30px 30px -30px;
+}
+
+.form-style input[type="text"], /* Campo de input de texto e campo de signos*/
+.form-style #state{
+    color: rgb(63, 63, 63);
+	display: block;
+	width: 100%;
+	padding: 7px;
+	border: none;
+	border-bottom: 1px solid rgb(204, 203, 203);
+	background: transparent;
+	margin-bottom: 10px;
+	height: 45px;
+}
+
+.btn{ /* Botão ENVIAR*/
+	border: 1px solid rgb(199, 50, 50);
+	background-color: rgb(236, 97, 97);
+	border-radius: 5px;
+    color: white;
+    margin-top: 10px;
+	font-size: 14px;
+	padding: 8px 18px;
+	text-transform: uppercase;
+}
